@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 40px 0;
+}
+.col{
+    padding: 20px;
+    margin: 0px;
+    border-width: 2px;
+}
+.card{
+    margin: 10px auto;
+}
+.container{
+    padding: 2px;
+    margin: auto;
+    background-color: aliceblue;
+    border-radius: 5px;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
+#display-box{
+    padding: 1px 10px;
+}
+.breadcrumb-item.active{
+    text-decoration: underline;
+}
